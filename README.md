@@ -170,8 +170,8 @@ aws-dva-prep/
 ## ✍️ Author
 
 **Aditya (Cloud + Data Engineering Enthusiast)**  
-📬 [LinkedIn](https://linkedin.com/in/your-link)  
-📧 youremail@example.com
+📬 [LinkedIn](www.linkedin.com/in/xadi)  
+📧 adityawaghmarex@gmail.com
 
 ---
 
