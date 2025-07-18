@@ -1,4 +1,5 @@
-# AWS Developer Associate (DVA-C02) Preparation ( Revision Notes 📒 ) :D
+# AWS Developer Associate (DVA-C02) Preparation
+# ( Revision Notes 📒 ) :D
 
 Welcome to my personal notes, hands-on labs, and mini-projects created during my AWS Developer Associate certification journey.  
 This repository is based on real-world practice and content from trusted resources like **AWS Docs** and **Stephane Maarek’s Udemy Course**.
