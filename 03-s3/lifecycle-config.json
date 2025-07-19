@@ -1,0 +1,18 @@
+{
+  "Rules": [
+    {
+      "ID": "Move old files to Glacier",
+      "Prefix": "",
+      "Status": "Enabled",
+      "Transitions": [
+        {
+          "Days": 30,
+          "StorageClass": "GLACIER"
+        }
+      ],
+      "Expiration": {
+        "Days": 365
+      }
+    }
+  ]
+}
