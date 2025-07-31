@@ -42,5 +42,3 @@ Event Source → EventBridge Event Bus → Event Rule → Target (Lambda, SQS, e
 ```
 
 ---
-
-Let me know if you want Terraform templates, practice questions, or architecture diagrams for SNS, SQS, or EventBridge!
